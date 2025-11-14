@@ -11,7 +11,7 @@ I’m currently developing my skills across the **modern JavaScript stack**, fro
 
 ## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,svelte,nodejs,express,postgresql,sequelize,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,svelte,nodejs,express,postgresql,sequelize,docker,git,postman)](https://skillicons.dev)
 
 **Frontend:** HTML • CSS • JavaScript • Svelte  
 **Backend:** Node.js • Express • EJS  
