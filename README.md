@@ -30,16 +30,16 @@ I’m currently developing my skills across the **modern JavaScript stack**, fro
 ## 🧠 What I’m Working On
 
 Right now, I’m focused on:
-- Developing full-stack applications using the **MVC architecture**  
+- Developing full stack applications using the **MVC architecture**  
 - Designing database models and diagrams with **Merise methodology**  
 - Building dynamic web apps with **Svelte**, **Express**, and **Sequelize**  
-- Learning to write clean, maintainable, and well-structured code  
+- Learning to write clean, maintainable, and well structured code  
 
 ---
 
 ## 🤝 I'm Open To
-- 💼 Internships or entry-level opportunities in web development  
-- 💬 Collaborations or open-source projects  
+- 💼 Internships or entry level opportunities in web development  
+- 💬 Collaborations or open source projects  
 - 🚀 Learning experiences in full stack development  
 
 ---
@@ -52,4 +52,4 @@ Right now, I’m focused on:
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out — I’m always open to learning and connecting.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and reach out, I’m always open to learning and connecting.*
