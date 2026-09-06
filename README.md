@@ -23,7 +23,8 @@ I’m currently developing my skills across the **modern JavaScript stack**, fro
 ---
 
 ## 🧩 Recent Projects
-*(coming soon)*
+### [GreenRoots](https://github.com/ZakariaDahhane/GreenRoots)
+### [Crénevo](https://github.com/ZakariaDahhane/Crenevo)
 
 ---
 
